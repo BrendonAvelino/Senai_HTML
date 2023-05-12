@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(241, 194, 225);
+}
+
+.nextstep {
+text-align: center;
+background-color: plum;  
+padding: 5px 10px;
+border-radius: 10px;
+border-style: solid;
+border-color: rgb(19, 51, 79);
+font-family: Arial, Helvetica, sans-serif;
+text-justify: auto;
+}
+
+.sub {
+    text-align: center;
+    font-style: normal;
+}
+
+.cursos {
+    display: inline-block;
+    text-justify: auto;
+    background-color: plum;  
+    padding: 5px 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(19, 51, 79);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.img1 {
+    text-align: center;
+}
+
+.bordatitulo {
+
+    display: inline-block;
+    text-justify: auto;
+    background-color: plum;  
+    padding: 5px 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(19, 51, 79);
+    font-family: Arial, Helvetica, sans-serif;
+}

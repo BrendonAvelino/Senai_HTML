@@ -1,0 +1,193 @@
+* {
+    border: 0;
+    margin: 0;
+    
+}
+
+/* x     */
+
+#imgNativas {
+
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100vw;
+    
+}
+
+#textoNativas {
+    
+    border-bottom: 1px solid;
+    padding: 2.5px;
+    font-family:monospace ;
+    font-size: 3em;
+    color: white;
+    position: absolute;
+    top: 5%;
+    left: 2.2%;
+    
+}
+
+#textoNativas2 {
+
+    border: 1px solid;
+    padding: 5px ;
+    font-family:monospace ;
+    font-size: 3em;
+    color: white;
+    position: absolute;
+    top: 12.1%;
+    left: 8.9%;
+    
+}
+
+#quem-somos {
+
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 63%;
+    left: 43%;   
+    background-color: #fcd7ba8c;
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 5px 5px;
+}
+
+#p_quem-somos {
+
+    padding-bottom: 18px ;
+    border-bottom: 2px dashed;
+    font-size: 18px;
+    position: absolute;
+    top: 76%;
+    left: 52%;
+}
+
+#p_quem-somos2 {
+
+    font-size: 18px;
+    position: absolute;
+    top: 107%;
+    left: 52%;
+}
+
+#imgclb {
+
+    border-radius: 8px;
+    width: 300px;
+    height: 400px;
+    position: absolute;
+    top: 77%;
+    left: 28%;
+}
+
+#cursos {
+
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 148%;
+    left: 38%;
+    background-color: #fcd7ba8c;
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 5px 5px;
+}
+
+#curso1 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    position: absolute;
+    top: 163%;
+    left: 4%;
+    border-bottom: 2px dotted;
+}
+
+#texto_curso1 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkmagenta;
+    font-size: 1.3em;
+    position: absolute;
+    top: 171.5%;
+    left: 7.5%;
+}
+
+#curso2 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    position: absolute;
+    top: 163%;
+    left: 47%;
+    border-bottom: 2px dotted;
+}
+
+#texto_curso2 {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkmagenta;
+    font-size: 1.3em;
+    position: absolute;
+    top: 171.5%;
+    left: 43%;
+}
+
+#curso3 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    position: absolute;
+    top: 163%;
+    left: 80%;
+    border-bottom: 2px dotted;
+}
+
+#texto_curso3 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkmagenta;
+    font-size: 1.3em;
+    position: absolute;
+    top: 171.5%;
+    left: 76%;
+}
+
+
+footer {
+    
+    bottom: 0%;
+    background-color: #b88e66;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 12vh;
+    position: absolute;
+    top: 230%;
+    left: 0%;
+    width: 100%;
+    height: 70px;
+}
+
+
+#footer {
+    opacity: 0;
+}
+
+#formulario {
+   
+    text-decoration: none;
+    position: absolute;
+    top: 210%;
+    left: 38%;
+    background-color: #fcd7ba8c;
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 5px 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#formulario a {
+    text-decoration: none;
+}

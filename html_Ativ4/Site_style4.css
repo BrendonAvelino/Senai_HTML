@@ -1,0 +1,44 @@
+body {
+    background-color: #fdc8dc;
+    color: black;
+
+}
+
+header {
+    font-family: 'Roboto', sans-serif;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+   background-color: #FFA9F8;
+   display: -webkit-flex;
+   display: -ms-flexbox;
+   display: flex;
+   -webkit-flex-direction: row;
+   -ms-flex-direction: row;
+   flex-direction: row;
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%
+ 
+    
+}
+
+
+
+#subtitulo {
+    
+    color: #503185;
+    padding: 2px 5px;
+
+}
+
+#mensagem {
+    color:#503185 ;
+    border-bottom: 3px dashed;
+}
+
+#casamentos {
+    color:#503185 ;
+    border-bottom: 3px solid;
+}

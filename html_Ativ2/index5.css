@@ -1,0 +1,22 @@
+body {
+    background-color: honeydew ;
+}
+
+.h1 {
+    text-align: center;
+    background-color: #8feab2; 
+    padding: 5px 10px;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: aliceblue;
+}
+
+form {
+    text-align: center;
+    
+}
+
+.nome {
+    border-color: aqua;
+
+}

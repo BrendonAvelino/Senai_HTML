@@ -1,0 +1,81 @@
+
+html {
+    font-size: 62.5%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  body {
+      font-size: 1.4rem;
+      line-height: 1.42857143;
+      color: #000000;
+      background-color: rgb(199, 197, 197);
+      
+      
+  }
+
+  main {
+      margin-top: 11rem;
+      text-align: center;
+  }
+  /* Header styles */
+  header {
+       font-family: 'Roboto', sans-serif;
+      -webkit-align-items: center;
+      -ms-flex-align: center;
+      align-items: center;
+      background-color: rgb(31, 59, 95);
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+      flex-direction: row;
+      height: 7rem;
+      padding: 8px 15px;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%
+    
+       
+  }
+
+  .logo {
+    color: white;
+    background-color: rgb(223, 136, 36);
+    border-radius: 8px;
+    padding: 5px 8px;
+  }
+
+  .texto_main {
+    
+    max-width: 800px;
+    color: white;
+    
+
+  }
+
+  #DC_texto {
+    color: white;
+    padding: 2px 5px;
+    background-color:rgba(28, 53, 87, 0.685);
+    border: 1px solid;
+    border-radius: 8px;
+  }
+  #DC_texto a {
+    text-decoration: none;
+    color: rgb(255, 255, 255)  ;
+  }
+
+  #Marvel_texto {
+    color: white;
+    padding: 2px 5px;
+    background-color:rgba(28, 53, 87, 0.685);
+    border: 1px solid;
+    border-radius: 8px;
+  }
+  #Marvel_texto a {
+    text-decoration: none;
+    color: rgb(255, 255, 255)  ;
+  }
